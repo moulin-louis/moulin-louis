@@ -1,5 +1,6 @@
 ### Hi there 👋
-- 42 Student, loving Reverse Engineering, Crypto/Web3, Hacking stuff, Emulation and OOS !
+- 20 year's old 42 Student
+- loving Reverse Engineering, Crypto/Web3, Hacking stuff, Emulation and OOS !
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moulin-louis&layout=compact)
 <!--

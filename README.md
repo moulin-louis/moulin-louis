@@ -1,7 +1,6 @@
 ### Hi there 👋
+42 Student, loving Reverse Engineering, Crypto/Web3, Hacking stuff, Emulation and OOS !
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moulin-louis&layout=compact)
-
-
 <!--
 **moulin-louis/moulin-louis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

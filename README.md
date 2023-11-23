@@ -2,8 +2,7 @@
 - 20 year's old 42 Student
 - Loving Reverse Engineering, Crypto/Web3, Hacking stuff, Emulation and OOS !
 ### Most Used Languages
-- C
-- C++
+- C/C++
 - Rust
 - Typescript
 - ASM x86_64
